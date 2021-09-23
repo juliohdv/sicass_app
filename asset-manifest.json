@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/static/js/main.1b72e7c0.chunk.js",
-    "main.js.map": "/static/js/main.1b72e7c0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e841f7c5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e841f7c5.js.map",
-    "static/css/2.ef9168ec.chunk.css": "/static/css/2.ef9168ec.chunk.css",
-    "static/js/2.c6bf65be.chunk.js": "/static/js/2.c6bf65be.chunk.js",
-    "static/js/2.c6bf65be.chunk.js.map": "/static/js/2.c6bf65be.chunk.js.map",
-    "static/js/3.4f75de21.chunk.js": "/static/js/3.4f75de21.chunk.js",
-    "static/js/3.4f75de21.chunk.js.map": "/static/js/3.4f75de21.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.ef9168ec.chunk.css.map": "/static/css/2.ef9168ec.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.c6bf65be.chunk.js.LICENSE.txt": "/static/js/2.c6bf65be.chunk.js.LICENSE.txt",
-    "static/media/iconoSicass.7d10827a.png": "/static/media/iconoSicass.7d10827a.png",
-    "static/media/logoProyeccionSocial.f4534b1d.jpg": "/static/media/logoProyeccionSocial.f4534b1d.jpg",
-    "static/media/logoUes.308b8d5e.png": "/static/media/logoUes.308b8d5e.png"
+    "main.css": "/sicass_app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/sicass_app/static/js/main.687d7edf.chunk.js",
+    "main.js.map": "/sicass_app/static/js/main.687d7edf.chunk.js.map",
+    "runtime-main.js": "/sicass_app/static/js/runtime-main.54a504d3.js",
+    "runtime-main.js.map": "/sicass_app/static/js/runtime-main.54a504d3.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/sicass_app/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.0cebf694.chunk.js": "/sicass_app/static/js/2.0cebf694.chunk.js",
+    "static/js/2.0cebf694.chunk.js.map": "/sicass_app/static/js/2.0cebf694.chunk.js.map",
+    "static/js/3.58ad7193.chunk.js": "/sicass_app/static/js/3.58ad7193.chunk.js",
+    "static/js/3.58ad7193.chunk.js.map": "/sicass_app/static/js/3.58ad7193.chunk.js.map",
+    "index.html": "/sicass_app/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/sicass_app/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/sicass_app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0cebf694.chunk.js.LICENSE.txt": "/sicass_app/static/js/2.0cebf694.chunk.js.LICENSE.txt",
+    "static/media/iconoSicass.7d10827a.png": "/sicass_app/static/media/iconoSicass.7d10827a.png",
+    "static/media/logoProyeccionSocial.f4534b1d.jpg": "/sicass_app/static/media/logoProyeccionSocial.f4534b1d.jpg",
+    "static/media/logoUes.308b8d5e.png": "/sicass_app/static/media/logoUes.308b8d5e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e841f7c5.js",
+    "static/js/runtime-main.54a504d3.js",
     "static/css/2.ef9168ec.chunk.css",
-    "static/js/2.c6bf65be.chunk.js",
+    "static/js/2.0cebf694.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.1b72e7c0.chunk.js"
+    "static/js/main.687d7edf.chunk.js"
   ]
 }
