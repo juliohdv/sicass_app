@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sicass_app/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/sicass_app/static/js/main.3ac288a3.chunk.js",
-    "main.js.map": "/sicass_app/static/js/main.3ac288a3.chunk.js.map",
+    "main.js": "/sicass_app/static/js/main.53f71274.chunk.js",
+    "main.js.map": "/sicass_app/static/js/main.53f71274.chunk.js.map",
     "runtime-main.js": "/sicass_app/static/js/runtime-main.54a504d3.js",
     "runtime-main.js.map": "/sicass_app/static/js/runtime-main.54a504d3.js.map",
     "static/css/2.ef9168ec.chunk.css": "/sicass_app/static/css/2.ef9168ec.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.c182eae1.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.3ac288a3.chunk.js"
+    "static/js/main.53f71274.chunk.js"
   ]
 }
