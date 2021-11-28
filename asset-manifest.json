@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/sicass_app/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/sicass_app/static/js/main.26a197f2.chunk.js",
-    "main.js.map": "/sicass_app/static/js/main.26a197f2.chunk.js.map",
-    "runtime-main.js": "/sicass_app/static/js/runtime-main.df41b57b.js",
-    "runtime-main.js.map": "/sicass_app/static/js/runtime-main.df41b57b.js.map",
-    "static/css/2.ef9168ec.chunk.css": "/sicass_app/static/css/2.ef9168ec.chunk.css",
-    "static/js/2.25896e39.chunk.js": "/sicass_app/static/js/2.25896e39.chunk.js",
-    "static/js/2.25896e39.chunk.js.map": "/sicass_app/static/js/2.25896e39.chunk.js.map",
-    "static/js/3.f3a96417.chunk.js": "/sicass_app/static/js/3.f3a96417.chunk.js",
-    "static/js/3.f3a96417.chunk.js.map": "/sicass_app/static/js/3.f3a96417.chunk.js.map",
+    "main.css": "/sicass_app/static/css/main.34aa94b1.chunk.css",
+    "main.js": "/sicass_app/static/js/main.344fa541.chunk.js",
+    "main.js.map": "/sicass_app/static/js/main.344fa541.chunk.js.map",
+    "runtime-main.js": "/sicass_app/static/js/runtime-main.27516ea9.js",
+    "runtime-main.js.map": "/sicass_app/static/js/runtime-main.27516ea9.js.map",
+    "static/css/2.c0e8d3f0.chunk.css": "/sicass_app/static/css/2.c0e8d3f0.chunk.css",
+    "static/js/2.aba3fd9f.chunk.js": "/sicass_app/static/js/2.aba3fd9f.chunk.js",
+    "static/js/2.aba3fd9f.chunk.js.map": "/sicass_app/static/js/2.aba3fd9f.chunk.js.map",
+    "static/js/3.8d959dff.chunk.js": "/sicass_app/static/js/3.8d959dff.chunk.js",
+    "static/js/3.8d959dff.chunk.js.map": "/sicass_app/static/js/3.8d959dff.chunk.js.map",
     "index.html": "/sicass_app/index.html",
-    "static/css/2.ef9168ec.chunk.css.map": "/sicass_app/static/css/2.ef9168ec.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/sicass_app/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.25896e39.chunk.js.LICENSE.txt": "/sicass_app/static/js/2.25896e39.chunk.js.LICENSE.txt",
+    "static/css/2.c0e8d3f0.chunk.css.map": "/sicass_app/static/css/2.c0e8d3f0.chunk.css.map",
+    "static/css/main.34aa94b1.chunk.css.map": "/sicass_app/static/css/main.34aa94b1.chunk.css.map",
+    "static/js/2.aba3fd9f.chunk.js.LICENSE.txt": "/sicass_app/static/js/2.aba3fd9f.chunk.js.LICENSE.txt",
     "static/media/iconoSicass.7d10827a.png": "/sicass_app/static/media/iconoSicass.7d10827a.png",
     "static/media/logoProyeccionSocial.f4534b1d.jpg": "/sicass_app/static/media/logoProyeccionSocial.f4534b1d.jpg",
     "static/media/logoUes.308b8d5e.png": "/sicass_app/static/media/logoUes.308b8d5e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.df41b57b.js",
-    "static/css/2.ef9168ec.chunk.css",
-    "static/js/2.25896e39.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.26a197f2.chunk.js"
+    "static/js/runtime-main.27516ea9.js",
+    "static/css/2.c0e8d3f0.chunk.css",
+    "static/js/2.aba3fd9f.chunk.js",
+    "static/css/main.34aa94b1.chunk.css",
+    "static/js/main.344fa541.chunk.js"
   ]
 }
